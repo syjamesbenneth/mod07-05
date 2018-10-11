@@ -1,0 +1,14 @@
+
+{
+
+"title": "Civil War",
+
+"character1" : {"Name" :"Captain America", "Weapon": "Shield", "Age": 90},
+
+"character2":{"Name":"Iron Man", "Weapon": "Iron Man Suit" , "Age": 40},
+
+"year":2016,
+
+"rating":7.8,
+
+}
